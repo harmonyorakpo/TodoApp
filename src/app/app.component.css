@@ -1,0 +1,51 @@
+.centreItems {
+  display: flex;
+}
+.centreItem {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  background: lightyellow;
+  padding: 5px;
+}
+
+th {
+  background: #cccccc;
+  color: #141415;
+  padding: 5px;
+}
+
+.bottomSpace {
+  margin-bottom: 32px;
+}
+
+input {
+  height: 50px;
+  width: 250px;
+  border-radius: 6px;
+  outline: none;
+  margin-right: 10px;
+}
+
+.addButton {
+  height: 40px;
+  width: 100px;
+  background: #3b5998;
+  border: none;
+  border-radius: 6px;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  background: crimson;
+  color: #fefefe;
+  border: none;
+  border-radius: 6px;
+}
+
+.space {
+  margin-bottom: 30px;
+}
